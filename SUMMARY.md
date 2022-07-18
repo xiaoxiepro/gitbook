@@ -44,3 +44,4 @@
 ***
 
 * [Disclaimer](disclaimer.md)
+* [方法](fang-fa.md)
