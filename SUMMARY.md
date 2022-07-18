@@ -6,7 +6,6 @@
 
 * [increasingly automated financial markets](background-introduction/increasingly-automated-financial-markets.md)
 * [PagThe future trading market will be replaced by robotse 1](background-introduction/pagthe-future-trading-market-will-be-replaced-by-robotse-1.md)
-* [kltt](https://kltt.tianyantu.com/h5/#/)
 
 ## Project Introduction
 
@@ -44,4 +43,3 @@
 ***
 
 * [Disclaimer](disclaimer.md)
-* [方法](fang-fa.md)
